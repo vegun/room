@@ -1,0 +1,5 @@
+2022/09/17-10:06:43.164 1944 Reusing MANIFEST F:/Model/room/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/09/17-10:25:42.207 3cc8 Level-0 table #5: started
+2022/09/17-10:25:43.591 3cc8 Level-0 table #5: 11156 bytes OK
+2022/09/17-10:25:44.400 3cc8 Delete type=0 #3
+2022/09/17-10:25:44.401 3cc8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
